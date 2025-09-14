@@ -27,7 +27,7 @@ and generate educational courses using artificial intelligence. By simply enteri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/bhataasim1/ai-content-generator.git
+   git clone https://github.com/amaanz/AI-Course-Generator.git
    ```
 
 2. Navigate to the project directory:
